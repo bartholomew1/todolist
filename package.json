@@ -1,0 +1,38 @@
+{
+  "name": "react-app",
+  "version": "0.0.1",
+  "description": "frontend portfolio",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "test"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "Bartłomiej",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "@types/react-router-dom": "5.3.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "react-router-dom": "6.8.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
